@@ -15,3 +15,6 @@ Finalmente se compararon la distribucion por tipo de plan, Básico o Premium en 
 Haz clic en el siguiente botón:
 
 [![Open In Colab](https://cnt-3e514491-3d80-4f90-be09-c4f9fbfba256.containerhub.tripleten-services.com/notebooks/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
+
+## Como ejecutar el Notebooke
+Fácil, le picas al boton ► hasta que se acabe..
