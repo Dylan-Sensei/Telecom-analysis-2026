@@ -14,4 +14,4 @@ Finalmente se compararon la distribucion por tipo de plan, Básico o Premium en 
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://cnt-3e514491-3d80-4f90-be09-c4f9fbfba256.containerhub.tripleten-services.com/notebooks/S7%20Version-Estudiante-Project-ConnectaTel.ipynb))]
+[![Open In Colab](https://cnt-3e514491-3d80-4f90-be09-c4f9fbfba256.containerhub.tripleten-services.com/notebooks/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
